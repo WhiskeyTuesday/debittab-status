@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="DebitTab Status Tracker" />
         <p className="description">
-          All systems are currently up and running at <code>https:\/\/app.debittab.com</code>
+          All systems are currently up and running at <code>app.debittab.com</code>
         </p>
       </main>
 
