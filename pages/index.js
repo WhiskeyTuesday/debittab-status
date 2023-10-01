@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>DebitTab status tracker</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="DebitTab Status Tracker" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          All systems are currently up and running at <code>https:\/\/app.debittab.com</code>
         </p>
       </main>
 
